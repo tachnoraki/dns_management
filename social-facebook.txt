@@ -1,0 +1,8 @@
+||www.facebook.com^
+||static.xx.fbcdn.net^
+||scontent-man2-1.xx.fbcdn.net^
+||edge-chat.facebook.com^
+||web-chat-e2ee.facebook.com^
+||scontent.xx.fbcdn.net^
+||gateway.facebook.com^
+||reg-e2ee.facebook.com^
