@@ -1,16 +1,12 @@
 [Adblock Plus]
 ! Title: Snapchat List
-! Description: Tracks assets used by Snapchat
+! Description: Tracks assets used by Snapchat for aggressive blocking.
 ! Syntax: Adblock Plus Filter List
-! License: https://github.com/tachnoraki/unblockstop/blob/main/LICENSE
-! Maintainer: tachnoraki
-! Sources: Manual curation, user submissions
+! Maintainer: Horus (for Dadio)
+! Sources: Manual curation, Horus Intel
+! Last Updated: 2026-01-26
 
+||bitmoji.com^
+||bitstrips.com^
+||sc-cdn.net^
 ||snapchat.com^
-||www.snapchat.com^
-||static.snapchat.com^
-||story.snapchat.com^
-||session.snapchat.com^
-||gcp.api.snapchat.com^
-||aws.api.snapchat.com^
-
