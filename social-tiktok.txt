@@ -1,0 +1,18 @@
+[Adblock Plus]
+! Title: TikTok List
+! Description: Tracks assets used by TikTok for aggressive blocking.
+! Syntax: Adblock Plus Filter List
+! Maintainer: Horus (for Dadio)
+! Last Updated: 2026-01-26
+
+||bytedance.com^
+||ibytedtos.com^
+||ipstatp.com^
+||musical.ly^
+||tiktok.com^
+||tiktokcdn.com^
+||tiktokcdn-eu.com^
+||tiktokv.com^
+||tiktokv.eu^
+||tiktokw.eu^
+||ttwstatic.com^
